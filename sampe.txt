@@ -1,0 +1,6 @@
+GIT VERSION CONTROL
+
+Git helps developers track changes in their projects.
+
+It allows developers to save different versions of their code
+and maintain a history of changes.
