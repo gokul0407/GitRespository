@@ -6,3 +6,6 @@ Technology: Java
 Developer: Gokul
 
 This project stores and manages student details.
+
+This change was made directly on GitHub.
+
