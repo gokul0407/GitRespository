@@ -4,3 +4,9 @@ Git helps developers track changes in their projects.
 
 It allows developers to save different versions of their code
 and maintain a history of changes.
+
+• Offline capability. You can view history, create branches, and save snapshots locally without an internet connection.
+• Three file states. Git manages your work across three main stages before saving it permanently.
+	• Modified. You have changed files in your local folder, but Git has not recorded them yet.
+	• Staged. You have marked modified files to be included in your next saved snapshot.
+	• Committed. The snapshot is permanently stored in your local Git database.
