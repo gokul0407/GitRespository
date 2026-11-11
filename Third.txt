@@ -1,0 +1,9 @@
+PROJECT FEATURES
+
+1. Add student details
+2. View student details
+3. Update student details
+4. Delete student details
+
+Future Enhancement:
+Connect the application with a database.

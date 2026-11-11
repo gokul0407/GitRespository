@@ -1,0 +1,8 @@
+STUDENT MANAGEMENT SYSTEM
+
+Project Name: Student Management System
+Purpose: To manage student information.
+Technology: Java
+Developer: Gokul
+
+This project stores and manages student details.
